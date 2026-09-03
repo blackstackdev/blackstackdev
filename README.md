@@ -51,7 +51,13 @@ Move files between trusted Windows PCs and Android devices through a Windows hos
 
 ### NestKeeper — find the copies. Keep the control.
 
-A local-only Windows tool for reviewing exact duplicate files before deciding what to remove. **Release candidate; checkout is not live.** [Inspect the product and proof](https://blackstackdev.github.io/kreadiv-worx/nestkeeper/).
+Find exact duplicate files across the folders you choose, then review the results before deciding what to remove. Scanning is local and does not move or delete your files.
+
+<a href="https://blackstackdev.github.io/kreadiv-worx/nestkeeper/">
+  <img src="assets/nestkeeper.png" width="100%" alt="NestKeeper v1.0.4 ready screen showing folder selection, multi-folder scanning and review controls, with no personal files selected." />
+</a>
+
+**Release candidate · Windows** — [See screenshots and product proof](https://blackstackdev.github.io/kreadiv-worx/nestkeeper/). Checkout is not live.
 
 ### PromptDeck — give good prompts a home.
 
