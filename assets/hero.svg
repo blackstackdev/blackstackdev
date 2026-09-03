@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-labelledby="title desc">
+  <title id="title">Krēˈādiv Worx — Ideas, made visible.</title>
+  <desc id="desc">An ink, bone and coral studio banner with bold typography and three staggered foundation blocks.</desc>
+  <rect width="1200" height="510" rx="12" fill="#11100e"/>
+  <path d="M60 97H1140M60 427H1140" stroke="#393631"/>
+  <g fill="#f4f0e8" font-family="Segoe UI,Arial,sans-serif">
+    <text x="60" y="62" font-size="26" font-weight="700">Krēˈādiv Worx</text>
+    <text x="1140" y="62" text-anchor="end" font-size="15" letter-spacing="3" fill="#bab4ab">THE HUMAN + AI WORKSHOP</text>
+    <text x="54" y="223" font-size="108" font-weight="800" letter-spacing="-6">Ideas,</text>
+    <text x="54" y="334" font-size="108" font-weight="800" letter-spacing="-6">made <tspan fill="#ff755f">visible.</tspan></text>
+    <text x="60" y="388" font-size="23" fill="#c7c1b8">Question everything. Build something useful.</text>
+    <text x="60" y="472" font-size="17" letter-spacing="1.5">LOCAL-FIRST SOFTWARE</text>
+    <text x="443" y="472" font-size="17" letter-spacing="1.5">HUMAN-GOVERNED AI</text>
+    <text x="1140" y="472" text-anchor="end" font-size="17" letter-spacing="1.5">CREATIVE WORK</text>
+  </g>
+  <g transform="translate(932 154)">
+    <rect x="70" y="0" width="138" height="62" rx="3" fill="#f4f0e8"/>
+    <rect x="35" y="76" width="173" height="62" rx="3" fill="#5570ff"/>
+    <rect x="0" y="152" width="208" height="62" rx="3" fill="#ff755f"/>
+    <path d="M-8 231H216" stroke="#6c655c"/>
+  </g>
+</svg>

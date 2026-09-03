@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="460" viewBox="0 0 600 460" role="img" aria-labelledby="title desc">
+  <title id="title">Krēˈādiv Worx — Ideas, made visible.</title>
+  <desc id="desc">A compact studio banner with bold bone-and-coral lettering and three foundation blocks.</desc>
+  <rect width="600" height="460" rx="12" fill="#11100e"/>
+  <path d="M30 76H570M30 385H570" stroke="#48423b"/>
+  <g font-family="Segoe UI,Arial,sans-serif" fill="#f4f0e8">
+    <text x="30" y="49" font-size="28" font-weight="700">Krēˈādiv Worx</text>
+    <text x="26" y="161" font-size="82" font-weight="800" letter-spacing="-4">Ideas,</text>
+    <text x="26" y="242" font-size="82" font-weight="800" letter-spacing="-4">made</text>
+    <text x="26" y="323" font-size="82" font-weight="800" letter-spacing="-4" fill="#ff755f">visible.</text>
+    <text x="30" y="363" font-size="24" fill="#c7c1b8">Question everything. Build something useful.</text>
+    <text x="30" y="427" font-size="25" fill="#c7c1b8">THE HUMAN + AI WORKSHOP</text>
+  </g>
+  <g transform="translate(426 137)">
+    <rect x="44" width="100" height="43" rx="3" fill="#f4f0e8"/>
+    <rect x="22" y="57" width="122" height="43" rx="3" fill="#5570ff"/>
+    <rect y="114" width="144" height="43" rx="3" fill="#ff755f"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+  <title id="title">The Three Bricks</title>
+  <desc id="desc">Hell Week: question it. Panzer Test: challenge it. Brick by Brick: ship, improve, repeat.</desc>
+  <rect width="1200" height="180" rx="8" fill="#f4f0e8"/>
+  <path d="M400 26V154M800 26V154" stroke="#c5beb3"/>
+  <g font-family="Segoe UI,Arial,sans-serif" fill="#11100e">
+    <g transform="translate(30 40)">
+      <text font-size="17" font-weight="700" fill="#9d3424">01 / QUESTION</text>
+      <text y="53" font-size="32" font-weight="800" letter-spacing="-1">Hell Week</text>
+      <text y="92" font-size="21">Should this exist?</text>
+    </g>
+    <g transform="translate(430 40)">
+      <text font-size="17" font-weight="700" fill="#293fc2">02 / CHALLENGE</text>
+      <text y="53" font-size="32" font-weight="800" letter-spacing="-1">Panzer Test</text>
+      <text y="92" font-size="21">How does it break?</text>
+    </g>
+    <g transform="translate(830 40)">
+      <text font-size="17" font-weight="700" fill="#48443e">03 / BUILD</text>
+      <text y="53" font-size="32" font-weight="800" letter-spacing="-1">Brick by Brick</text>
+      <text y="92" font-size="21">Ship. Improve. Repeat.</text>
+    </g>
+  </g>
+</svg>
