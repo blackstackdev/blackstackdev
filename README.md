@@ -54,7 +54,7 @@ Move files between trusted Windows PCs and Android devices through a Windows hos
 Find exact duplicate files across the folders you choose, then review the results before deciding what to remove. Scanning is local and does not move or delete your files.
 
 <a href="https://blackstackdev.github.io/kreadiv-worx/nestkeeper/">
-  <img src="assets/nestkeeper.png" width="100%" alt="NestKeeper v1.0.4 ready screen showing folder selection, multi-folder scanning and review controls, with no personal files selected." />
+  <img src="https://raw.githubusercontent.com/blackstackdev/blackstackdev/0abc64762649b1485b6020492f5735466ec57d5a/assets/nestkeeper.png" width="100%" alt="NestKeeper v1.0.4 ready screen showing folder selection, multi-folder scanning and review controls, with no personal files selected." />
 </a>
 
 **Release candidate · Windows** — [See screenshots and product proof](https://blackstackdev.github.io/kreadiv-worx/nestkeeper/). Checkout is not live.
