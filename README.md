@@ -47,7 +47,7 @@ Move files between trusted Windows PCs and Android devices through a Windows hos
   <img src="assets/portaldrop.png" width="100%" alt="PortalDrop product graphic showing private file handoff between Windows and Android devices." />
 </a>
 
-**Private beta · Windows + Android** — [See the product and real transfer demo](https://blackstackdev.github.io/kreadiv-worx/portaldrop/). Public installation is not open yet.
+**Free public release · Windows + Android** — [Download PortalDrop and see the real transfer demo](https://blackstackdev.github.io/kreadiv-worx/portaldrop/).
 
 ### NestKeeper — find the copies. Keep the control.
 
@@ -57,7 +57,7 @@ Find exact duplicate files across the folders you choose, then review the result
   <img src="https://raw.githubusercontent.com/blackstackdev/blackstackdev/0abc64762649b1485b6020492f5735466ec57d5a/assets/nestkeeper.png" width="100%" alt="NestKeeper v1.0.4 ready screen showing folder selection, multi-folder scanning and review controls, with no personal files selected." />
 </a>
 
-**Release candidate · Windows** — [See screenshots and product proof](https://blackstackdev.github.io/kreadiv-worx/nestkeeper/). Checkout is not live.
+**Available · Windows** — [Get NestKeeper and see screenshots](https://blackstackdev.github.io/kreadiv-worx/nestkeeper/). Windows installer and portable versions are available.
 
 ### PromptDeck — give good prompts a home.
 
